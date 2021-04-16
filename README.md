@@ -1,1 +1,3 @@
-# example-repoHello World
+# example-repo 
+Hello World
+This is Joshua speaking.
